@@ -1,0 +1,3 @@
+napis pod WITH -> jako złota tekstura
+imię obramówka -> RGBA: 99c459ff
+imię wypełnienie -> RGBA: 057602ff
